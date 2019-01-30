@@ -1,0 +1,38 @@
+{
+  "name": "KompiTextAja",
+  "short_name": "KompiTextAja",
+  "start_url": "https://www.indoamaterasu.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "icons": [{
+    "src": "https://3.bp.blogspot.com/-4JfOha68qFw/XFH5hUje_dI/AAAAAAAATjk/g6UGs7etiv89S3c8kuz_2tbbQnVwZG19ACLcBGAs/s1600/indo%2B48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-eNIUh0WKTJA/XFH5iS-0K7I/AAAAAAAATjs/8NaRfh1OmdI9J2u1_QqGGQxIR2mQtPCRgCLcBGAs/s1600/indo%2B72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-i7kxSoyCedo/XFH5iuntSqI/AAAAAAAATjw/VW2jB7PQfTou2CUEUTr_ciCHr9eI6ci7ACLcBGAs/s1600/indo%2B96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-ZdymqaMWEzk/XFH5fqnPyVI/AAAAAAAATjQ/fiaTWl_xOOchf0v0abChCSOvDkSXePT1gCLcBGAs/s1600/indo%2B144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-vxFGDMINUEA/XFH5fmmKFnI/AAAAAAAATjY/4k4SuCnkJh8UhpkMtZiesw_Sal4rPYJwACLcBGAs/s1600/indo%2B168x168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-bKsvxv377Bc/XFH5g5DzbnI/AAAAAAAATjc/e82RHvFPvs4mQ_x5D4f5z2Rx6K4DTV-wwCLcBGAs/s1600/indo%2B192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-MTYBJJIauR8/XFH5iPEh3qI/AAAAAAAATjo/YJawapU1McwsRw6yeVopz1S5V-dHFaUZwCLcBGAs/s1600/indo%2B512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
